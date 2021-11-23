@@ -7,6 +7,6 @@
 
 <br>
 <nl>
-<h1>Cette partie sera affichée que dans la branche test</h1>
+<h1>Cette partie sera affichée que dans la branche dev</h1>
 </body>
 </html>
